@@ -1,2 +1,6 @@
-# new-design-chat-app
-new design chat app
+# Frontend Mentor - Chat app CSS illustration
+
+![Design preview for the Chat app CSS illustration coding challenge](preview.jpg)
+
+## Welcome! 👋
+
